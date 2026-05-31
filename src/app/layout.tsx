@@ -42,6 +42,10 @@ export const metadata: Metadata = {
       "Premier black car and chauffeur service in the San Francisco Bay Area. 24/7 availability. Contact us for rates and availability.",
   },
   robots: { index: true, follow: true },
+  icons: {
+    icon: "/icon.svg",
+    shortcut: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
