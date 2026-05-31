@@ -1,0 +1,112 @@
+{
+  "services": [
+    {
+      "id": "airport-transfers",
+      "slug": "airport-transfers",
+      "title": "Airport Transfers",
+      "subtitle": "SFO · OAK · SJC",
+      "description": "Seamless door-to-door airport service with real-time flight tracking, meet & greet, and complimentary wait time.",
+      "icon": "Plane",
+      "features": [
+        "Meet & Greet Service",
+        "Real-Time Flight Tracking",
+        "Complimentary Wait Time",
+        "24/7 Availability"
+      ],
+      "image": "/uploads/1778790688451-qufz1m.jpg",
+      "active": true,
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "corporate-travel",
+      "slug": "corporate-travel",
+      "title": "Corporate Travel",
+      "subtitle": "Executive & Business Class",
+      "description": "First-class transportation for executives, client meetings, roadshows, and corporate events. Discreet, punctual, and professionally presented.",
+      "icon": "Briefcase",
+      "features": [
+        "Executive Fleet",
+        "WiFi Available",
+        "Privacy Partition",
+        "Same-Day Service"
+      ],
+      "image": "/uploads/1778790764563-dx4biz.jpg",
+      "active": true,
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "wedding-limo",
+      "slug": "wedding-limo",
+      "title": "Wedding Limo",
+      "subtitle": "Your Perfect Day Deserves Perfection",
+      "description": "Make your most important day unforgettable. Elegant luxury vehicles for the bridal party, ceremony, and reception.",
+      "icon": "Heart",
+      "features": [
+        "Bridal Party Service",
+        "Complimentary Champagne",
+        "Day-of Coordination",
+        "Multiple Vehicles"
+      ],
+      "image": "/uploads/1778790828410-seng3s.jpg",
+      "active": true,
+      "featured": true,
+      "order": 3
+    },
+    {
+      "id": "special-events",
+      "slug": "special-events",
+      "title": "Special Events",
+      "subtitle": "Galas · Proms · Concerts · Sporting",
+      "description": "Arrive in style at any occasion. Red-carpet worthy transportation for galas, premieres, proms, and exclusive events across the Bay Area.",
+      "icon": "Sparkles",
+      "features": [
+        "Red Carpet Arrivals",
+        "Group Rates",
+        "Stretch Limo Options",
+        "Round-Trip Service"
+      ],
+      "image": "/uploads/1778790864235-fa4ano.png",
+      "active": true,
+      "featured": false,
+      "order": 4
+    },
+    {
+      "id": "city-tours",
+      "slug": "city-tours",
+      "title": "City & Leisure Tours",
+      "subtitle": "VIP San Francisco Bay Area Experiences",
+      "description": "Discover the San Francisco Bay Area like never before — Golden Gate, Napa Valley, Silicon Valley, and beyond.",
+      "icon": "Map",
+      "features": [
+        "Custom Itineraries",
+        "San Francisco & Silicon Valley",
+        "Napa Valley Wine Country",
+        "Half & Full Day Options"
+      ],
+      "image": "/uploads/1778790913883-mtc4p0.jpg",
+      "active": true,
+      "featured": false,
+      "order": 5
+    },
+    {
+      "id": "hourly-charter",
+      "slug": "hourly-charter",
+      "title": "Hourly Charter",
+      "subtitle": "As-Directed Flexible Service",
+      "description": "Maximum flexibility for your schedule. Retain your chauffeur for multiple stops, long days, or whenever you need a dedicated luxury vehicle.",
+      "icon": "Clock",
+      "features": [
+        "No Stop Limits",
+        "Chauffeur On-Call",
+        "2-Hour Minimum",
+        "All Vehicle Classes"
+      ],
+      "image": "/uploads/1778790951923-qjxwm7.webp",
+      "active": true,
+      "featured": false,
+      "order": 6
+    }
+  ]
+}

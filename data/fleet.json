@@ -1,0 +1,106 @@
+{
+  "vehicles": [
+    {
+      "id": "executive-sedan",
+      "name": "Executive Sedan",
+      "model": "Lincoln Continental / Cadillac CT6",
+      "category": "Sedan",
+      "capacity": "1–3 Passengers",
+      "features": [
+        "Professional Chauffeur",
+        "Climate Control",
+        "Complimentary Water",
+        "WiFi Available"
+      ],
+      "image": "/uploads/1778791516094-whmh4o.jpg",
+      "active": true,
+      "featured": true,
+      "order": 1
+    },
+    {
+      "id": "luxury-suv",
+      "name": "Luxury SUV",
+      "model": "Cadillac Escalade",
+      "category": "SUV",
+      "capacity": "1–6 Passengers",
+      "features": [
+        "Premium Leather Interior",
+        "Privacy Partition",
+        "Entertainment System",
+        "Extra Luggage"
+      ],
+      "image": "/uploads/1778791530489-myxu7q.jpg",
+      "active": true,
+      "featured": true,
+      "order": 2
+    },
+    {
+      "id": "executive-van",
+      "name": "Executive Van",
+      "model": "Mercedes-Benz Sprinter",
+      "category": "Van",
+      "capacity": "1–12 Passengers",
+      "features": [
+        "Corporate Group Travel",
+        "Conference Seating",
+        "USB Charging Ports",
+        "Climate Control"
+      ],
+      "image": "/uploads/1778791540221-7cevev.jpg",
+      "active": true,
+      "featured": true,
+      "order": 3
+    },
+    {
+      "id": "classic-stretch",
+      "name": "Classic Stretch Limo",
+      "model": "Lincoln Navigator Stretch",
+      "category": "Stretch",
+      "capacity": "2–10 Passengers",
+      "features": [
+        "Full Bar Setup",
+        "Mood Lighting",
+        "Premium Sound System",
+        "Privacy Divider"
+      ],
+      "image": "/uploads/1778791550134-46md2p.jpg",
+      "active": true,
+      "featured": false,
+      "order": 4
+    },
+    {
+      "id": "suv-stretch",
+      "name": "SUV Stretch Limo",
+      "model": "Cadillac Escalade Stretch",
+      "category": "Stretch SUV",
+      "capacity": "2–16 Passengers",
+      "features": [
+        "VIP Lounge Interior",
+        "Custom Lighting",
+        "Surround Sound",
+        "Premium Bar"
+      ],
+      "image": "/uploads/1778791566191-8wyj68.jpg",
+      "active": true,
+      "featured": false,
+      "order": 5
+    },
+    {
+      "id": "mini-coach",
+      "name": "Mini Coach",
+      "model": "Executive Mini Coach",
+      "category": "Coach",
+      "capacity": "2–24 Passengers",
+      "features": [
+        "Corporate Groups",
+        "Reclining Seats",
+        "PA System",
+        "Luggage Storage"
+      ],
+      "image": "/uploads/1778791576613-qeragx.jpg",
+      "active": true,
+      "featured": false,
+      "order": 6
+    }
+  ]
+}

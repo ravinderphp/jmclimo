@@ -1,0 +1,52 @@
+{
+  "slides": [
+    {
+      "id": 1,
+      "eyebrow": "San Francisco Bay Area Premier Chauffeur Service",
+      "heading": "The Art of",
+      "headingAccent": "Arrival.",
+      "body": "Seamless airport transfers from SFO, OAK & SJC. Professional meet & greet, real-time flight tracking, and complimentary wait time. Available 24/7.",
+      "image": "/uploads/1778790977184-0dkjux.png",
+      "accentColor": "#c41e3a",
+      "ctaSecondaryLabel": "Airport Transfers",
+      "ctaSecondaryHref": "/services/airport-transfers",
+      "carType": "sedan"
+    },
+    {
+      "id": 2,
+      "eyebrow": "Executive & Corporate Travel",
+      "heading": "Driven by",
+      "headingAccent": "Excellence.",
+      "body": "First-class corporate chauffeur service for executives, client meetings, roadshows, and business events. Discreet, punctual, impeccably presented — every time.",
+      "image": "/uploads/1778781413431-yunx91.jpg",
+      "accentColor": "#4a70c0",
+      "ctaSecondaryLabel": "Corporate Travel",
+      "ctaSecondaryHref": "/services/corporate-travel",
+      "carType": "suv"
+    },
+    {
+      "id": 3,
+      "eyebrow": "Wedding & Special Occasions",
+      "heading": "Your Perfect",
+      "headingAccent": "Journey.",
+      "body": "Elegant luxury transportation for your wedding day and most memorable occasions. Every detail perfected — from the bridal party to the reception and beyond.",
+      "image": "/uploads/1778781616892-61boha.jpg",
+      "accentColor": "#d4a85c",
+      "ctaSecondaryLabel": "Wedding Limo",
+      "ctaSecondaryHref": "/services/wedding-limo",
+      "carType": "stretch"
+    },
+    {
+      "id": 4,
+      "eyebrow": "VIP & Celebrity Transportation",
+      "heading": "Command Every",
+      "headingAccent": "Entrance.",
+      "body": "Discreet, luxurious, and unforgettable. Premium black car service for the Bay Area's most discerning clients, executives, and public figures. Privacy guaranteed.",
+      "image": "/uploads/1778781703235-g4t1bg.jpg",
+      "accentColor": "#9966cc",
+      "ctaSecondaryLabel": "Contact Us",
+      "ctaSecondaryHref": "/contact",
+      "carType": "suv"
+    }
+  ]
+}
