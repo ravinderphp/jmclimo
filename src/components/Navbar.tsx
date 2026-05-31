@@ -7,7 +7,7 @@ import { Phone, Menu, X, ChevronDown, Plane, Briefcase, Heart, Sparkles, Map, Cl
 import Logo from "./Logo";
 
 const serviceLinks = [
-  { label: "Airport Transfers", href: "/services/airport-transfers", icon: Plane, desc: "SFO, OAK, SJC" },
+  { label: "Airport Transfers", href: "/services/airport-transfers", icon: Plane, desc: "SFO & OAK" },
   { label: "Corporate Travel", href: "/services/corporate-travel", icon: Briefcase, desc: "Executive & business class" },
   { label: "Wedding Limo", href: "/services/wedding-limo", icon: Heart, desc: "Your perfect day" },
   { label: "Special Events", href: "/services/special-events", icon: Sparkles, desc: "Galas, proms, concerts" },

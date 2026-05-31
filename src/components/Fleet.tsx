@@ -130,7 +130,7 @@ export default function Fleet({ vehicles: vehiclesProp }: Props) {
                     </li>
                   ))}
                 </ul>
-                <a href="tel:+13105550199" className="btn-luxury btn-outline-gold w-full px-4 py-3 text-[0.65rem] tracking-[0.18em] rounded-sm flex items-center justify-center gap-2">
+                <a href="tel:+15105068201" className="btn-luxury btn-outline-gold w-full px-4 py-3 text-[0.65rem] tracking-[0.18em] rounded-sm flex items-center justify-center gap-2">
                   <Phone size={11} strokeWidth={2} /><span>Inquire About This Vehicle</span>
                 </a>
               </div>

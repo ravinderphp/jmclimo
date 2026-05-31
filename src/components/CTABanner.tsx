@@ -68,7 +68,7 @@ export default function CTABanner() {
             transition={{ duration: 0.7, delay: 0.1 }}
           >
             <a
-              href="tel:+13105550199"
+              href="tel:+15105068201"
               className="btn-luxury flex items-center gap-2.5 px-7 py-4 text-[0.68rem] tracking-[0.14em] rounded-sm"
               style={{
                 background: "rgba(255,255,255,0.95)",
@@ -82,12 +82,12 @@ export default function CTABanner() {
                 <span className="text-[0.52rem] text-[#7c0022]/60 tracking-widest uppercase">
                   Call 24/7
                 </span>
-                <span className="font-semibold">(310) 555-0199</span>
+                <span className="font-semibold">(510) 506-8201</span>
               </div>
             </a>
 
             <a
-              href="https://wa.me/13105550199?text=Hello%20JMC%20Limo%2C%20I%20would%20like%20to%20inquire%20about%20your%20chauffeur%20services."
+              href="https://wa.me/15105068201?text=Hello%20JMC%20Limo%2C%20I%20would%20like%20to%20inquire%20about%20your%20chauffeur%20services."
               target="_blank"
               rel="noopener noreferrer"
               className="btn-luxury flex items-center gap-2.5 px-7 py-4 text-[0.68rem] tracking-[0.14em] rounded-sm"

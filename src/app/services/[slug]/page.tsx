@@ -28,11 +28,11 @@ const serviceData: Record<string, {
 }> = {
   "airport-transfers": {
     title: "Airport Transfers",
-    accent: "SFO, OAK & SJC Airports",
+    accent: "SFO & OAK Airports",
     subtitle: "Seamless door-to-door airport service with real-time flight tracking and professional meet & greet.",
-    description: "Arrive or depart in complete comfort and style. Our airport transfer service covers all major San Francisco Bay Area airports — SFO, OAK, and SJC — with professional meet & greet, real-time flight monitoring, and complimentary wait time.",
-    longDesc: "Whether you are catching an early morning flight or arriving late at night, JMC Limo ensures a seamless, stress-free experience. Your chauffeur will monitor your flight in real time, adjust for delays, and be waiting for you at baggage claim — immaculately dressed, vehicle spotless and ready. Serving all Bay Area airports including San Francisco International (SFO), Oakland International (OAK), and San Jose Mineta International (SJC).",
-    features: ["Real-Time Flight Tracking", "Meet & Greet at Baggage Claim", "Complimentary 60-Min Wait (Intl)", "SFO, OAK & SJC Covered", "Flight Delay Monitoring", "Luggage Assistance", "Child Seats Available", "24/7 Availability"],
+    description: "Arrive or depart in complete comfort and style. Our airport transfer service covers San Francisco International (SFO) and Oakland International (OAK) with professional meet & greet, real-time flight monitoring, and complimentary wait time.",
+    longDesc: "Whether you are catching an early morning flight or arriving late at night, JMC Limo ensures a seamless, stress-free experience. Your chauffeur will monitor your flight in real time, adjust for delays, and be waiting for you at baggage claim — immaculately dressed, vehicle spotless and ready. Currently serving San Francisco International (SFO) and Oakland International (OAK).",
+    features: ["Real-Time Flight Tracking", "Meet & Greet at Baggage Claim", "Complimentary 60-Min Wait (Intl)", "SFO & OAK Airports Covered", "Flight Delay Monitoring", "Luggage Assistance", "Child Seats Available", "24/7 Availability"],
     icon: Plane, accentColor: "#c41e3a",
     relatedServices: ["corporate-travel", "hourly-charter", "city-tours"],
   },

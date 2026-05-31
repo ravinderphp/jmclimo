@@ -244,13 +244,13 @@ export default function HeroBanner({ slides: slidesProp }: Props) {
 
               {/* CTAs */}
               <motion.div className="flex flex-col sm:flex-row gap-4" initial={{ opacity: 0, y: 18 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7, delay: 1.15 }}>
-                <a href="tel:+13105550199" className="btn-luxury btn-crimson px-7 py-4 text-[0.7rem] tracking-[0.14em] rounded-sm flex items-center gap-3 group">
+                <a href="tel:+15105068201" className="btn-luxury btn-crimson px-7 py-4 text-[0.7rem] tracking-[0.14em] rounded-sm flex items-center gap-3 group">
                   <div className="w-8 h-8 rounded-full bg-white/10 flex items-center justify-center pulse-crimson group-hover:bg-white/20 transition-colors">
                     <Phone size={13} strokeWidth={2.2} />
                   </div>
                   <div className="flex flex-col items-start">
                     <span className="text-[0.5rem] text-white/55 tracking-widest uppercase">Call 24/7</span>
-                    <span className="font-semibold">(310) 555-0199</span>
+                    <span className="font-semibold">(510) 506-8201</span>
                   </div>
                 </a>
                 <Link href={slide.ctaSecondaryHref} className="btn-luxury btn-outline-gold px-7 py-4 text-[0.7rem] tracking-[0.14em] rounded-sm flex items-center gap-3">
